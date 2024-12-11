@@ -1,2 +1,0 @@
-from openjdk 11
-EXPOSE 8087 
